@@ -96,7 +96,7 @@ The project follows a structured data analysis workflow:
     ```bash
     cd your-Instagram-Account-Analysis
     ```
-3.   **Ensure Data is Present:**
+3.  Ensure Data is Present:
     Make sure the `Instagram data.csv` file is located in the same directory as the Jupyter Notebook.
     
 4.  Install the required libraries:
