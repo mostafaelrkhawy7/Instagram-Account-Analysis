@@ -96,8 +96,11 @@ The project follows a structured data analysis workflow:
     ```bash
     cd your-Instagram-Account-Analysis
     ```
-3.  Install the required libraries:
+3.   **Ensure Data is Present:**
+    Make sure the `Instagram data.csv` file is located in the same directory as the Jupyter Notebook.
+    
+4.  Install the required libraries:
     ```bash
     pip install -r requirements.txt
     ```
-4.  Open and run the `Instagram Account-Analysis Project.ipynb` file in Jupyter Notebook or JupyterLab.
+5.  Open and run the `Instagram Account-Analysis Project.ipynb` file in Jupyter Notebook or JupyterLab.
